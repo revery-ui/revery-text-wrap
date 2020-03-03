@@ -10,8 +10,8 @@
       [
         "dune",
         "build",
-        "--root",
-        "."
+        "-p",
+        "revery-text-wrap"
       ]
     ],
     "install": [
